@@ -8,7 +8,7 @@ $output = shell_exec('git config --global user.email stefan.cerny@gmail.com');
     flush();
     echo "Add:<pre>$output</pre>";
      //$output = shell_exec('git commit -m "'.$_POST["txt"].'" ');
-    $output = shell_exec('git commit -m "XXXX" ');
+    $output = shell_exec('git commit -m "'.date("Y-m-d H:i:s").'" ');
     echo "Commit:<pre>$output</pre>";
 flush();
     $output = shell_exec('git push ');
