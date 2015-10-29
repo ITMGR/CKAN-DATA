@@ -1,4 +1,6 @@
 <?php 
+
+$output = shell_exec('git config --global user.email stefan.cerny@gmail.com');
     $output = shell_exec('git add *');
     echo "Add:<pre>$output</pre>";
      //$output = shell_exec('git commit -m "'.$_POST["txt"].'" ');
