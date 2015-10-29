@@ -2,12 +2,15 @@
 
 $output = shell_exec('git config --global user.email stefan.cerny@gmail.com');
     $output = shell_exec('git add *');
+    flush();
     echo "Add:<pre>$output</pre>";
      //$output = shell_exec('git commit -m "'.$_POST["txt"].'" ');
     $output = shell_exec('git commit -m "XXXX" ');
     echo "Commit:<pre>$output</pre>";
+flush();
     $output = shell_exec('git push ');
-    echo "Commit:<pre>$output</pre>";
+    echo "push:<pre>$output</pre>";
+    flush();
 if($_GET['action']=='add'){
 
 }
