@@ -1,0 +1,11 @@
+{
+    "id": "6b629782-034c-4eb3-8af5-6a2967b529dd",
+    "timestamp": "2015-10-29T08:44:13.366179",
+    "message": "REST API: Delete Package: qqq",
+    "author": "admin",
+    "approved_timestamp": null,
+    "packages": [
+        "94d22726-3f2b-4ed4-bb97-478c65a68d80"
+    ],
+    "groups": []
+}
