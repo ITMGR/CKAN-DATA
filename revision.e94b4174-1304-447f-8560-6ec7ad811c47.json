@@ -4,7 +4,9 @@
     "message": "",
     "author": "admin",
     "approved_timestamp": null,
-    "packages": [],
+    "packages": [
+        "94d22726-3f2b-4ed4-bb97-478c65a68d80"
+    ],
     "groups": [
         "1d58e6ed-89db-46a2-b8da-98b4535a1e0a"
     ]
