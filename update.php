@@ -1,5 +1,8 @@
 <?php 
 
+$output = shell_exec('git config remote.origin.url https://ITMGR:Trmoewm081722743@github.com/ITMGR/CKAN-DATA.git');
+   
+    echo "Llgin:<pre>$output</pre>";
 $output = shell_exec('git config --global user.email stefan.cerny@gmail.com');
     $output = shell_exec('git add *');
     flush();
