@@ -11,7 +11,7 @@ $output = shell_exec('git config --global user.email stefan.cerny@gmail.com');
     $output = shell_exec('git commit -m "Backup - '.date("Y-m-d H:i:s").'" ');
     echo "Commit:<pre>$output</pre>";
 flush();
-    $output = shell_exec('git push ');
+$output = shell_exec('git push ');
     echo "push:<pre>$output</pre>";
     flush();
     /*
