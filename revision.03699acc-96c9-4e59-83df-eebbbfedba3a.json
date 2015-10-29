@@ -1,0 +1,11 @@
+{
+    "id": "03699acc-96c9-4e59-83df-eebbbfedba3a",
+    "timestamp": "2015-10-29T13:28:18.635033",
+    "message": "REST API: Delete Group: jjjj",
+    "author": "admin",
+    "approved_timestamp": null,
+    "packages": [],
+    "groups": [
+        "311ebe0f-bd50-4fe8-9ae2-5e65337ebcb3"
+    ]
+}
