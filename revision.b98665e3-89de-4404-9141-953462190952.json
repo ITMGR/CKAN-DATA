@@ -1,0 +1,13 @@
+{
+    "id": "b98665e3-89de-4404-9141-953462190952",
+    "timestamp": "2015-10-27T10:18:37.631919",
+    "message": "REST API: Aktualizova\u0165 objekt registre-odboru-pody-a-vyzivy-rastlin",
+    "author": "admin",
+    "approved_timestamp": null,
+    "packages": [
+        "32c0c40c-0ed5-4a6b-bbfe-6d3d915b9b6b"
+    ],
+    "groups": [
+        "e0f2dacc-59b6-4a76-b5d9-88ef5fc893c9"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "id": "6a089acd-bef2-4159-99e5-8e4395f9c254",
+    "timestamp": "2015-10-26T16:50:32.915487",
+    "message": "REST API: Update object vinohradnicky-register",
+    "author": "admin",
+    "approved_timestamp": null,
+    "packages": [
+        "e7267dde-668c-4277-85fe-661e3476abb4"
+    ],
+    "groups": []
+}

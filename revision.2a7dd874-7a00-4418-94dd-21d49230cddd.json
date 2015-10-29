@@ -1,0 +1,13 @@
+{
+    "id": "2a7dd874-7a00-4418-94dd-21d49230cddd",
+    "timestamp": "2015-10-27T13:21:28.601411",
+    "message": "REST API: Delete Group: testers",
+    "author": "admin",
+    "approved_timestamp": null,
+    "packages": [
+        "d1d267b4-647e-48aa-bba4-a7d5faf7bc4e"
+    ],
+    "groups": [
+        "b3378898-621f-47c7-b24b-0e001aca7c6c"
+    ]
+}

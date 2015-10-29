@@ -1,0 +1,11 @@
+{
+    "id": "2c485fe1-864d-4778-aac9-caf0c25d3fcb",
+    "timestamp": "2015-10-29T07:33:09.007983",
+    "message": "REST API: Update object gggg",
+    "author": "admin",
+    "approved_timestamp": null,
+    "packages": [
+        "1157e2a8-ed76-4c9c-aa49-a0c430438de4"
+    ],
+    "groups": []
+}

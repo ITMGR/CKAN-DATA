@@ -1,0 +1,11 @@
+{
+    "id": "c3323835-c178-4971-894e-2aabfcfe23b1",
+    "timestamp": "2015-10-27T11:57:15.256708",
+    "message": "REST API: Delete Package: zoznam-monitorovacich-zariadeni-kameroveho-systemu-stav-k-aktualnemu-datumu",
+    "author": "admin",
+    "approved_timestamp": null,
+    "packages": [
+        "b00add69-e56f-4116-8164-dd1337fa7a51"
+    ],
+    "groups": []
+}

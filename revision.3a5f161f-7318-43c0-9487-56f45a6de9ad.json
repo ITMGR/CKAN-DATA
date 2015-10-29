@@ -1,0 +1,11 @@
+{
+    "id": "3a5f161f-7318-43c0-9487-56f45a6de9ad",
+    "timestamp": "2015-10-23T08:12:40.313568",
+    "message": "REST API: Update object datasety-odboru-vinohradnictva-a-vinarstva",
+    "author": "admin",
+    "approved_timestamp": null,
+    "packages": [
+        "b0b115ed-30a8-4e03-8fb7-98582dd91d4e"
+    ],
+    "groups": []
+}

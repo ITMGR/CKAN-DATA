@@ -1,0 +1,11 @@
+{
+    "id": "d88cb07b-42ab-4403-8293-f009df9cd2a7",
+    "timestamp": "2015-10-27T11:55:15.071758",
+    "message": "REST API: Update object zoznam-monitorovacich-zariadeni-kameroveho-systemu-stav-k-aktualnemu-datumu",
+    "author": "admin",
+    "approved_timestamp": null,
+    "packages": [
+        "b00add69-e56f-4116-8164-dd1337fa7a51"
+    ],
+    "groups": []
+}

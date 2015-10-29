@@ -1,0 +1,11 @@
+{
+    "id": "e93cb785-ebce-464d-8d18-627180f2643f",
+    "timestamp": "2015-10-19T08:26:07.905178",
+    "message": "REST API: Update object skuska",
+    "author": "admin",
+    "approved_timestamp": null,
+    "packages": [
+        "2815be82-3d53-4306-9918-8178813c7807"
+    ],
+    "groups": []
+}

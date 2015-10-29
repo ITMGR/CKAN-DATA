@@ -1,0 +1,11 @@
+{
+    "id": "7ae81f4f-854b-41e0-9ee7-29aaf604163d",
+    "timestamp": "2015-10-23T08:09:06.960298",
+    "message": "REST API: Update object uksup-datasety",
+    "author": "admin",
+    "approved_timestamp": null,
+    "packages": [
+        "f3fd3ca1-99ff-40a9-95df-5dab56622950"
+    ],
+    "groups": []
+}

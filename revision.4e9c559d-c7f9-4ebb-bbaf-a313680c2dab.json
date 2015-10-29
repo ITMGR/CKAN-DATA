@@ -1,0 +1,13 @@
+{
+    "id": "4e9c559d-c7f9-4ebb-bbaf-a313680c2dab",
+    "timestamp": "2015-10-23T08:11:32.088166",
+    "message": "",
+    "author": "admin",
+    "approved_timestamp": null,
+    "packages": [
+        "b0b115ed-30a8-4e03-8fb7-98582dd91d4e"
+    ],
+    "groups": [
+        "e0f2dacc-59b6-4a76-b5d9-88ef5fc893c9"
+    ]
+}

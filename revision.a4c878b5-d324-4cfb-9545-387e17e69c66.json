@@ -1,0 +1,9 @@
+{
+    "id": "a4c878b5-d324-4cfb-9545-387e17e69c66",
+    "timestamp": "2015-10-26T14:35:35.686951",
+    "message": "Set ckan.site_intro_text setting in system_info table",
+    "author": null,
+    "approved_timestamp": null,
+    "packages": [],
+    "groups": []
+}

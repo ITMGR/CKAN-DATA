@@ -1,0 +1,11 @@
+{
+    "id": "525bae08-a381-4bdb-ba0e-9c5f0a968879",
+    "timestamp": "2015-10-27T12:32:54.290301",
+    "message": "REST API: Delete Member: 4f1ca5eb-29ca-40bd-bc37-f6032e6cf60b",
+    "author": "admin",
+    "approved_timestamp": null,
+    "packages": [],
+    "groups": [
+        "1d58e6ed-89db-46a2-b8da-98b4535a1e0a"
+    ]
+}

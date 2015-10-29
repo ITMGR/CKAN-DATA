@@ -1,0 +1,9 @@
+{
+    "id": "a8bd763c-d810-42a3-bd19-bc02c81b2d0e",
+    "timestamp": "2015-10-26T13:38:09.455315",
+    "message": "Set ckan.site_title setting in system_info table",
+    "author": null,
+    "approved_timestamp": null,
+    "packages": [],
+    "groups": []
+}
