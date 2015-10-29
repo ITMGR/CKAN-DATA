@@ -14,6 +14,7 @@ flush();
     $output = shell_exec('git push ');
     echo "push:<pre>$output</pre>";
     flush();
+    /*
 if($_GET['action']=='add'){
 
 }
@@ -21,4 +22,5 @@ if($_GET['action']=='commit'){
 
 
 }
+*/
  ?>
